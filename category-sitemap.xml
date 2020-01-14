@@ -8,8 +8,22 @@
     </url>
 
     <url>
-        <loc>https://devall4u.github.io/categories/Hexo/</loc>
-        <lastmod>2020-01-14T12:34:43.815Z</lastmod>
+        <loc>https://devall4u.github.io/categories/Interest/Hexo/</loc>
+        <lastmod>2020-01-14T13:44:25.021Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://devall4u.github.io/categories/Interest/</loc>
+        <lastmod>2020-01-14T13:44:25.021Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://devall4u.github.io/categories/Interest/Mathematics/</loc>
+        <lastmod>2020-01-14T13:44:17.599Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -24,13 +38,6 @@
     <url>
         <loc>https://devall4u.github.io/categories/Programming/</loc>
         <lastmod>2020-01-14T11:10:59.195Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://devall4u.github.io/categories/Mathematics/</loc>
-        <lastmod>2020-01-12T07:47:22.189Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
