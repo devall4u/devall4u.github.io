@@ -8,8 +8,8 @@
     </url>
 
     <url>
-        <loc>https://devall4u.github.io/2020/01/08/dot/</loc>
-        <lastmod>2020-01-12T07:47:22.189Z</lastmod>
+        <loc>https://devall4u.github.io/2020/01/14/tag-plugins/</loc>
+        <lastmod>2020-01-14T12:34:43.815Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -17,7 +17,15 @@
 
     <url>
         <loc>https://devall4u.github.io/2019/12/12/markdown/</loc>
-        <lastmod>2020-01-11T09:51:44.340Z</lastmod>
+        <lastmod>2020-01-14T11:10:59.195Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://devall4u.github.io/2020/01/08/dot/</loc>
+        <lastmod>2020-01-12T07:47:22.189Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
