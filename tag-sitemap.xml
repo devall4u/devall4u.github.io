@@ -3,6 +3,34 @@
 
 
     <url>
+        <loc>https://devall4u.github.io/tags/SendAnyWhere/</loc>
+        <lastmod>2020-09-26T03:45:30.670Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://devall4u.github.io/tags/Python/</loc>
+        <lastmod>2020-09-19T14:07:27.017Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://devall4u.github.io/tags/Visual-Studio-Code/</loc>
+        <lastmod>2020-09-19T14:07:27.017Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://devall4u.github.io/tags/VS-Code/</loc>
+        <lastmod>2020-09-19T14:07:27.017Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://devall4u.github.io/tags/tag-plugins/</loc>
         <lastmod>2020-02-01T09:51:39.008Z</lastmod>
         <changefreq>weekly</changefreq>

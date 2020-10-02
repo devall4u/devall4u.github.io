@@ -6,7 +6,7 @@
   <link href="/feed.xml" rel="self"/>
   
   <link href="https://devall4u.github.io/"/>
-  <updated>2020-01-29T12:16:27.365Z</updated>
+  <updated>2020-09-26T03:45:30.670Z</updated>
   <id>https://devall4u.github.io/</id>
   
   <author>
@@ -15,6 +15,68 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>핸드폰 PC 사진 파일 전송</title>
+    <link href="https://devall4u.github.io/2020/09/26/SendAnyWhere/"/>
+    <id>https://devall4u.github.io/2020/09/26/SendAnyWhere/</id>
+    <published>2020-09-26T03:13:45.000Z</published>
+    <updated>2020-09-26T03:45:30.670Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="핸드폰-PC간-사진-파일-전송"><a href="#핸드폰-PC간-사진-파일-전송" class="headerlink" title="핸드폰 PC간 사진 파일 전송"></a>핸드폰 PC간 사진 파일 전송</h1><h2 id="개요"><a href="#개요" class="headerlink" title="개요"></a>개요</h2><p>요즘 스마트기기와 노트북의 사양이 많아지면서 장치간에 사진, 파일 등을 전송할 수 있는 다양한 방법들이 있지만 간편하게 Android, iOS, Windows, macOS, Linux까지 파일을 전송할 수있는  <a href="https://send-anywhere.com/ko/" target="_blank" rel="noopener">SendAnyWhere</a> 를 사용해 보자. </p><p>가입하지 않아도 사용할 수 있다. </p><h2 id="목차"><a href="#목차" class="headerlink" title="목차"></a>목차</h2><ul><li><a href="#usage">사용법</a></li><li><a href="#link">링크</a></li></ul><hr><h2 id="사용법"><a href="#사용법" class="headerlink" title="사용법 "></a>사용법 <a id="usage"></a></h2><ul><li>핸드폰에서 PC로 사진 전송</li></ul><p>구글 스토어에서 SendAnyWhere 어플을 다운받아 실행하면 다음과 같이 파일을 선택할 수있다. </p><img src="/img/sendanywhere/sendanywherephone1.jpg" class="" width="500" height="500"><br><p>사진 선택 후 아래의 보내기 버튼을 누르면 다음처럼 6 자리 숫자 키가 생성된다.  </p><img src="/img/sendanywhere/sendanywherephone2.jpg" class="" width="500" height="500"><br><p>PC에서 <a href="https://send-anywhere.com/ko/" target="_blank" rel="noopener">SendAnyWhere</a> 홈페이지로 이동한후 핸드폰에서 생성된 키를 아래의 받기 부분에 입력한 후 바로 옆의 다운로드 이미지 버튼을 클릭하면 핸드폰 이미지가 PC로 다운로드 된다.   </p><img src="/img/sendanywhere/sendanywherepc2.jpg" class="" width="500" height="500"><br><p>전송이 완료되면 다음과 같이…</p><img src="/img/sendanywhere/sendanywherepc3.jpg" class="" width="500" height="500"><br><hr><h2 id="링크"><a href="#링크" class="headerlink" title="링크 "></a>링크 <a id="link"></a></h2><ul><li><a href="https://send-anywhere.com/ko/" target="_blank" rel="noopener">SendAnyWhere</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;핸드폰-PC간-사진-파일-전송&quot;&gt;&lt;a href=&quot;#핸드폰-PC간-사진-파일-전송&quot; class=&quot;headerlink&quot; title=&quot;핸드폰 PC간 사진 파일 전송&quot;&gt;&lt;/a&gt;핸드폰 PC간 사진 파일 전송&lt;/h1&gt;&lt;h2 id=&quot;개요&quot;&gt;&lt;a hr
+      
+    
+    </summary>
+    
+    
+      <category term="Interest" scheme="https://devall4u.github.io/categories/Interest/"/>
+    
+      <category term="IT" scheme="https://devall4u.github.io/categories/Interest/IT/"/>
+    
+    
+      <category term="SendAnyWhere" scheme="https://devall4u.github.io/tags/SendAnyWhere/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Visual Studio Code Python 설정</title>
+    <link href="https://devall4u.github.io/2020/09/19/Visual-Studio-Code-Python-%EC%84%A4%EC%A0%95/"/>
+    <id>https://devall4u.github.io/2020/09/19/Visual-Studio-Code-Python-%EC%84%A4%EC%A0%95/</id>
+    <published>2020-09-19T12:30:57.000Z</published>
+    <updated>2020-09-19T14:07:27.017Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Visual-Studio-Code-Python-설정"><a href="#Visual-Studio-Code-Python-설정" class="headerlink" title="Visual Studio Code Python 설정"></a>Visual Studio Code Python 설정</h1><h2 id="개요"><a href="#개요" class="headerlink" title="개요"></a>개요</h2><p>Visual Studio Code에서 Python 프로그램 작성과 디버깅이 가능하다.<br>우선 컴퓨터에 먼저 Visual Studio Code와 Python이 설치되어 있어야 한다.</p><hr><h2 id="목차"><a href="#목차" class="headerlink" title="목차"></a>목차</h2><ul><li><a href="#header">제목</a></li><li><a href="#character">글자</a></li><li><a href="#quotation">인용</a></li><li><a href="#line">가로줄</a></li><li><a href="#list">목록</a></li><li><a href="#table">표</a></li><li><a href="#link">링크</a></li><li><a href="#image">이미지</a></li></ul><hr><h2 id="제목"><a href="#제목" class="headerlink" title="제목 "></a>제목 <a id="header"></a></h2><ul><li>사용법<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"># Header 1</span><br><span class="line">## Header 2</span><br><span class="line">### Header 3</span><br><span class="line">#### Header 4</span><br><span class="line">##### Header 5</span><br><span class="line">###### Header 6</span><br></pre></td></tr></table></figure></li><li>결과</li></ul><h1 id="Header-1"><a href="#Header-1" class="headerlink" title="Header 1"></a>Header 1</h1><h2 id="Header-2"><a href="#Header-2" class="headerlink" title="Header 2"></a>Header 2</h2><h3 id="Header-3"><a href="#Header-3" class="headerlink" title="Header 3"></a>Header 3</h3><h4 id="Header-4"><a href="#Header-4" class="headerlink" title="Header 4"></a>Header 4</h4><h5 id="Header-5"><a href="#Header-5" class="headerlink" title="Header 5"></a>Header 5</h5><h6 id="Header-6"><a href="#Header-6" class="headerlink" title="Header 6"></a>Header 6</h6><hr><h2 id="글자"><a href="#글자" class="headerlink" title="글자 "></a>글자 <a id="character"></a></h2><ul><li>사용법<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">**글자를 굵게**</span><br><span class="line"></span><br><span class="line">_글자를 기울게_</span><br><span class="line">*글자를 기울게*</span><br><span class="line"></span><br><span class="line">__글자를 굵고 기울게__</span><br><span class="line">***글자를 굵고 기울게***</span><br><span class="line"></span><br><span class="line">~~취소선~~</span><br></pre></td></tr></table></figure></li><li>결과  </li><li><em>글자를 굵게*</em><br><em>글자를 기울게</em>  </li><li>글자를 기울게*<br><strong>글자를 굵고 기울게</strong>  </li><li><strong>글자를 굵고 기울게*</strong><br><del>취소선</del></li></ul><hr><h2 id="인용"><a href="#인용" class="headerlink" title="인용 "></a>인용 <a id="quotation"></a></h2><ul><li>사용법<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">&gt; 인용되는 문장</span><br><span class="line">&gt;&gt; 인용 안의 인용</span><br></pre></td></tr></table></figure></li><li>결과  <blockquote><p>인용되는 문장</p><blockquote><p>인용 안의 인용</p></blockquote></blockquote></li></ul><hr><h2 id="가로줄"><a href="#가로줄" class="headerlink" title="가로줄 "></a>가로줄 <a id="line"></a></h2><ul><li>사용법<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">---</span><br></pre></td></tr></table></figure></li><li>결과  </li></ul><hr><hr><h2 id="목록"><a href="#목록" class="headerlink" title="목록 "></a>목록 <a id="list"></a></h2><ul><li>사용법<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">* 목록 1</span><br><span class="line">  * 목록 1-1</span><br><span class="line">    * 목록</span><br><span class="line">  * 목록 1-2</span><br><span class="line">    1. 목록</span><br><span class="line">    2. 목록</span><br></pre></td></tr></table></figure></li><li>결과  </li></ul><ul><li>목록 1<ul><li>목록 1-1<ul><li>목록</li></ul></li><li>목록 1-2<ol><li>목록</li><li>목록</li></ol></li></ul></li></ul><hr><h2 id="표"><a href="#표" class="headerlink" title="표 "></a>표 <a id="table"></a></h2><ul><li><p>사용법</p><ul><li>“:” 으로 정렬  <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">좋은 | 나쁜</span><br><span class="line">:---: | ---:</span><br><span class="line">과일 | 눈깔사탕</span><br></pre></td></tr></table></figure></li></ul></li><li><p>결과  </p></li></ul><table><thead><tr><th align="center">좋은</th><th align="right">나쁜</th></tr></thead><tbody><tr><td align="center">과일</td><td align="right">눈깔사탕</td></tr></tbody></table><hr><h2 id="링크"><a href="#링크" class="headerlink" title="링크 "></a>링크 <a id="link"></a></h2><ul><li>사용법</li></ul><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">[나의 링크](https:&#x2F;&#x2F;devall4u.github.io)</span><br></pre></td></tr></table></figure><ul><li>결과  </li></ul><p>  <a href="https://devall4u.github.io">나의 링크</a>  </p><hr><h2 id="이미지"><a href="#이미지" class="headerlink" title="이미지 "></a>이미지 <a id="image"></a></h2><ul><li>사용법</li></ul><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">![이미지]](&#x2F;img&#x2F;test.png)</span><br></pre></td></tr></table></figure><ul><li>결과  </li></ul><p> <img src="/img/test.png" alt="이미지"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;Visual-Studio-Code-Python-설정&quot;&gt;&lt;a href=&quot;#Visual-Studio-Code-Python-설정&quot; class=&quot;headerlink&quot; title=&quot;Visual Studio Code Python 설정&quot;&gt;&lt;/a&gt;Vi
+      
+    
+    </summary>
+    
+    
+      <category term="Programming" scheme="https://devall4u.github.io/categories/Programming/"/>
+    
+      <category term="Python" scheme="https://devall4u.github.io/categories/Programming/Python/"/>
+    
+      <category term="Visual Studio Code" scheme="https://devall4u.github.io/categories/Programming/Python/Visual-Studio-Code/"/>
+    
+    
+      <category term="VS Code" scheme="https://devall4u.github.io/tags/VS-Code/"/>
+    
+      <category term="Visual Studio Code" scheme="https://devall4u.github.io/tags/Visual-Studio-Code/"/>
+    
+      <category term="Python" scheme="https://devall4u.github.io/tags/Python/"/>
+    
+  </entry>
   
   <entry>
     <title>여권 발급</title>
