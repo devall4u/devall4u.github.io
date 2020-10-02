@@ -6,7 +6,7 @@
   <link href="/feed.xml" rel="self"/>
   
   <link href="https://devall4u.github.io/"/>
-  <updated>2020-09-26T03:45:30.670Z</updated>
+  <updated>2020-10-02T13:02:04.945Z</updated>
   <id>https://devall4u.github.io/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://devall4u.github.io/2020/09/26/SendAnyWhere/"/>
     <id>https://devall4u.github.io/2020/09/26/SendAnyWhere/</id>
     <published>2020-09-26T03:13:45.000Z</published>
-    <updated>2020-09-26T03:45:30.670Z</updated>
+    <updated>2020-10-02T13:02:04.945Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="핸드폰-PC간-사진-파일-전송"><a href="#핸드폰-PC간-사진-파일-전송" class="headerlink" title="핸드폰 PC간 사진 파일 전송"></a>핸드폰 PC간 사진 파일 전송</h1><h2 id="개요"><a href="#개요" class="headerlink" title="개요"></a>개요</h2><p>요즘 스마트기기와 노트북의 사양이 많아지면서 장치간에 사진, 파일 등을 전송할 수 있는 다양한 방법들이 있지만 간편하게 Android, iOS, Windows, macOS, Linux까지 파일을 전송할 수있는  <a href="https://send-anywhere.com/ko/" target="_blank" rel="noopener">SendAnyWhere</a> 를 사용해 보자. </p><p>가입하지 않아도 사용할 수 있다. </p><h2 id="목차"><a href="#목차" class="headerlink" title="목차"></a>목차</h2><ul><li><a href="#usage">사용법</a></li><li><a href="#link">링크</a></li></ul><hr><h2 id="사용법"><a href="#사용법" class="headerlink" title="사용법 "></a>사용법 <a id="usage"></a></h2><ul><li>핸드폰에서 PC로 사진 전송</li></ul><p>구글 스토어에서 SendAnyWhere 어플을 다운받아 실행하면 다음과 같이 파일을 선택할 수있다. </p><img src="/img/sendanywhere/sendanywherephone1.jpg" class="" width="500" height="500"><br><p>사진 선택 후 아래의 보내기 버튼을 누르면 다음처럼 6 자리 숫자 키가 생성된다.  </p><img src="/img/sendanywhere/sendanywherephone2.jpg" class="" width="500" height="500"><br><p>PC에서 <a href="https://send-anywhere.com/ko/" target="_blank" rel="noopener">SendAnyWhere</a> 홈페이지로 이동한후 핸드폰에서 생성된 키를 아래의 받기 부분에 입력한 후 바로 옆의 다운로드 이미지 버튼을 클릭하면 핸드폰 이미지가 PC로 다운로드 된다.   </p><img src="/img/sendanywhere/sendanywherepc2.jpg" class="" width="500" height="500"><br><p>전송이 완료되면 다음과 같이…</p><img src="/img/sendanywhere/sendanywherepc3.jpg" class="" width="500" height="500"><br><hr><h2 id="링크"><a href="#링크" class="headerlink" title="링크 "></a>링크 <a id="link"></a></h2><ul><li><a href="https://send-anywhere.com/ko/" target="_blank" rel="noopener">SendAnyWhere</a></li></ul>]]></content>
+    <content type="html"><![CDATA[<h1 id="핸드폰-PC간-사진-파일-전송"><a href="#핸드폰-PC간-사진-파일-전송" class="headerlink" title="핸드폰 PC간 사진 파일 전송"></a>핸드폰 PC간 사진 파일 전송</h1><h2 id="개요"><a href="#개요" class="headerlink" title="개요"></a>개요</h2><p>요즘 스마트기기와 노트북의 사양이 많아지면서 장치간에 사진, 파일 등을 전송할 수 있는 다양한 방법들이 있지만 간편하게 Android, iOS, Windows, macOS, Linux까지 파일을 전송할 수있는  <a href="https://send-anywhere.com/ko/" target="_blank" rel="noopener">SendAnyWhere</a> 를 사용해 보자. </p><p>가입하지 않아도 사용할 수 있다. </p><h2 id="목차"><a href="#목차" class="headerlink" title="목차"></a>목차</h2><ul><li><a href="#usage">사용법</a></li><li><a href="#link">링크</a></li></ul><hr><h2 id="사용법"><a href="#사용법" class="headerlink" title="사용법 "></a>사용법 <a id="usage"></a></h2><ul><li>핸드폰에서 PC로 사진 전송</li></ul><p>구글 스토어에서 SendAnyWhere 어플을 다운받아 실행하면 다음과 같이 파일을 선택할 수있다. </p><img src="/img/sendanywhere/sendanywherephone1.jpg" class="" width="500" height="500"><br><p>사진 선택 후 우측 아래의 보내기 버튼을 누르면 다음처럼 6 자리 숫자 키가 생성된다.  </p><img src="/img/sendanywhere/sendanywherephone2.jpg" class="" width="500" height="500"><br><p>PC에서 <a href="https://send-anywhere.com/ko/" target="_blank" rel="noopener">SendAnyWhere</a> 홈페이지로 이동한후 핸드폰에서 생성된 키를 아래의 받기 텍스트 창에 입력한 후 바로 옆의 다운로드 이미지 버튼을 클릭하면 핸드폰 이미지가 PC로 다운로드 된다.   </p><img src="/img/sendanywhere/sendanywherepc2.jpg" class="" width="500" height="500"><br><p>전송이 완료되면 다음과 같이 전송 완료 메시지가 뜬다.</p><img src="/img/sendanywhere/sendanywherepc3.jpg" class="" width="500" height="500"><br><hr><h2 id="링크"><a href="#링크" class="headerlink" title="링크 "></a>링크 <a id="link"></a></h2><ul><li><a href="https://send-anywhere.com/ko/" target="_blank" rel="noopener">SendAnyWhere</a></li></ul>]]></content>
     
     <summary type="html">
     
@@ -41,6 +41,10 @@
     
     
       <category term="SendAnyWhere" scheme="https://devall4u.github.io/tags/SendAnyWhere/"/>
+    
+      <category term="사진전송" scheme="https://devall4u.github.io/tags/%EC%82%AC%EC%A7%84%EC%A0%84%EC%86%A1/"/>
+    
+      <category term="사진공유" scheme="https://devall4u.github.io/tags/%EC%82%AC%EC%A7%84%EA%B3%B5%EC%9C%A0/"/>
     
   </entry>
   
